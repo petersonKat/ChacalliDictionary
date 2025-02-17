@@ -1,0 +1,116 @@
+[
+    {
+        "id": 0,
+        "chacalli_word": "Chacalli",
+        "common_meaning": "The sub-continent where the Chacalli language and culture comes from",
+        "pronunciation": "cha-CAH-lee"
+    },
+    {
+        "id": 1,
+        "chacalli_word": "Tepetozcah Tenyocan",
+        "common_meaning": "Literally 'glorious mountains'\nThe mountain range separating Chacalli from the rest of its landmass.",
+        "pronunciation": "teh-peh-TOZ-cah TEN-yo-con"
+    },
+    {
+        "id": 2,
+        "chacalli_word": "Neten Nonotzalitzli",
+        "common_meaning": "Literally 'contract'\nA confederacy within Chacalli, and the dominant country.",
+        "pronunciation": "NET-ten no-nohtz-ah-LEES-tlee"
+    },
+    {
+        "id": 3,
+        "chacalli_word": "Tochtepec",
+        "common_meaning": "Literally 'fish town'\nOne of the cities in Neten Nonotzlalitzli, a fishing hub near the coast",
+        "pronunciation": "TOKE-teh-peck"
+    },
+    {
+        "id": 4,
+        "chacalli_word": "Tlatlacualoyan",
+        "common_meaning": "Literally 'banquet hall'\nOne of the cities in Neten Nonotzlalitzli, and its political center",
+        "pronunciation": "tla-tla-QUAH-lo-yann"
+    },
+    {
+        "id": 5,
+        "chacalli_word": "Chalchiuhicalli",
+        "common_meaning": "Literally 'jade stone'\nOne of the cities in Neten Nonotzlalitzli, a mining town rich in resources",
+        "pronunciation": "chal-chiu-hee-CAHL-lee"
+    },
+    {
+        "id": 6,
+        "chacalli_word": "cocomoca",
+        "common_meaning": "From 'comoco', meaning 'bleat'\nA domesticated beast in Chacalli, adept at navigating along difficult terrain",
+        "pronunciation": "co-co-MOH-ca"
+    },
+    {
+        "id": 7,
+        "chacalli_word": "Empero Tletzintli",
+        "common_meaning": "Literally 'Fire Empire'\nA small tribal empire, and another country within Chacalli",
+        "pronunciation": "Em-pair-oh tlet-ZEEN-tlee"
+    },
+    {
+        "id": 8,
+        "chacalli_word": "Monnan Nepiki",
+        "common_meaning": "Literally 'ash mother'\nA volcano central to the mountains of Tepetozcah Tenyocan, which has been rumored to be near eruption",
+        "pronunciation": "MOE-naan neh-PEEK-ee"
+    },
+    {
+        "id": 9,
+        "chacalli_word": "Escudo Neyollo",
+        "common_meaning": "A temple in the mountains of Tepetozcah Tenyocan, where it is rumored that the Chalice of Kruka is kept",
+        "pronunciation": "es-COO-doe nae-YOH-low"
+    },
+    {
+        "id": 10,
+        "chacalli_word": "Xalli",
+        "common_meaning": "sand",
+        "pronunciation": "SHAH-lee"
+    },
+    {
+        "id": 11,
+        "chacalli_word": "Tepetl",
+        "common_meaning": "hill",
+        "pronunciation": "teh-peh-TILL"
+    },
+    {
+        "id": 12,
+        "chacalli_word": "Tepetozo",
+        "common_meaning": "mountainous",
+        "pronunciation": "teh-peh-TOZ-oh"
+    },
+    {
+        "id": 13,
+        "chacalli_word": "Tepetl Xalli",
+        "common_meaning": "Literally 'sand hill'\nA region of the port town of Tochtepec where many of the Neten Nonotzalitzli natives live and work.",
+        "pronunciation": "teh-peh-TILL SHAH-lee"
+    },
+    {
+        "id": 14,
+        "chacalli_word": "Kalaki",
+        "common_meaning": "A type of boat used for fishing in the shallow parts of the ocean near the shore. It has a wide, flat bottom, similar to a raft.",
+        "pronunciation": "cah-lah-KEE"
+    },    
+    {
+        "id": 15,
+        "chacalli_word": "Amo",
+        "common_meaning": "When used alone, a first person possessive ('my'). As a prefix, a negative modifier ('not-').",
+        "pronunciation": "AH-mo"
+    },
+    {
+        "id": 16,
+        "chacalli_word": "Kuali",
+        "common_meaning": "goodness",
+        "pronunciation": "QUALL-ee"
+    },
+    {
+        "id": 17,
+        "chacalli_word": "Kualtik",
+        "common_meaning": "Literally 'most goodness'\nbest",
+        "pronunciation": "QUALL-teek"
+    },
+    {
+        "id": 18,
+        "chacalli_word": "Amokuali",
+        "common_meaning": "Literally 'not goodness'\nbad",
+        "pronunciation": "ah-mo-QUALL-ee"
+    }
+]
