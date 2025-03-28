@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Current Efforts
+
+[] https://docs.flutter.dev/data-and-backend/serialization/json (Might use, might not, since we only are going one way)
+[] Hypothetical favorite screen for commonly used words?
+[] Hypothetical J pronounciation audio

@@ -3,48 +3,19 @@
 part of 'Entry.dart';
 
 // **************************************************************************
-// TypeAdapterGenerator
+// JsonSerializableGenerator
 // **************************************************************************
 
-class EntryAdapter extends TypeAdapter<Entry> {
-  @override
-  final int typeId = 0;
-
-  @override
-  Entry read(BinaryReader reader) {
-    final numOfFields = reader.readByte();
-    final fields = <int, dynamic>{
-      for (int i = 0; i < numOfFields; i++) reader.readByte(): reader.read(),
-    };
-    return Entry(
-      id: fields[0] as int?,
-      word: fields[1] as String?,
-      meaning: fields[2] as String?,
-      pronunciation: fields[3] as String?,
+Entry _$EntryFromJson(Map<String, dynamic> json) => Entry(
+      id: (json['id'] as num).toInt(),
+      word: json['chacalli_word'] as String,
+      meaning: json['common_meaning'] as String,
+      pronunciation: json['pronunciation'] as String,
     );
-  }
 
-  @override
-  void write(BinaryWriter writer, Entry obj) {
-    writer
-      ..writeByte(4)
-      ..writeByte(0)
-      ..write(obj.id)
-      ..writeByte(1)
-      ..write(obj.word)
-      ..writeByte(2)
-      ..write(obj.meaning)
-      ..writeByte(3)
-      ..write(obj.pronunciation);
-  }
-
-  @override
-  int get hashCode => typeId.hashCode;
-
-  @override
-  bool operator ==(Object other) =>
-      identical(this, other) ||
-      other is EntryAdapter &&
-          runtimeType == other.runtimeType &&
-          typeId == other.typeId;
-}
+Map<String, dynamic> _$EntryToJson(Entry instance) => <String, dynamic>{
+      'id': instance.id,
+      'chacalli_word': instance.word,
+      'common_meaning': instance.meaning,
+      'pronunciation': instance.pronunciation,
+    };

@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/scheduler.dart';
-//import 'package:chacalli_dictionary/models/Entry.dart';
-import 'package:chacalli_dictionary/services/DatabaseService.dart';
+import 'package:chacalli_dictionary/models/Entry.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -9,15 +7,13 @@ class HomeScreen extends StatefulWidget {
   @override
   State<StatefulWidget> createState() => _HomeScreenState();
 
-  static String get path => "/home";
-  static String get name => "/home";
+  static String get path => "/";
+  static String get name => "/";
 }
 
 class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
-    SchedulerBinding.instance.addPostFrameCallback((timestamp) async {
-      await DatabaseService.initialize(); });
     return Scaffold(
       appBar: AppBar(
         title: const Text('Welcome to Chacalli Dictionary',
