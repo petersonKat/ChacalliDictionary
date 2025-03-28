@@ -1,0 +1,434 @@
+[
+    {
+        "id": 0,
+        "chacalli_word": "Chacalli",
+        "common_meaning": "The sub-continent where the Chacalli language and culture comes from",
+        "pronunciation": "cha-CAH-lee"
+    },
+    {
+        "id": 1,
+        "chacalli_word": "Tepetozcah Tenyocan",
+        "common_meaning": "Literally 'glorious mountains'\nThe mountain range separating Chacalli from the rest of its landmass.",
+        "pronunciation": "teh-peh-TOZ-cah TEN-yo-con"
+    },
+    {
+        "id": 2,
+        "chacalli_word": "Neten Nonotzalitzli",
+        "common_meaning": "Literally 'contract'\nA confederacy within Chacalli, and the dominant country.",
+        "pronunciation": "NET-ten no-nohtz-ah-LEES-tlee"
+    },
+    {
+        "id": 3,
+        "chacalli_word": "Tochtepec",
+        "common_meaning": "Literally 'fish town'\nOne of the cities in Neten Nonotzlalitzli, a fishing hub near the coast",
+        "pronunciation": "TOKE-teh-peck"
+    },
+    {
+        "id": 4,
+        "chacalli_word": "Tlatlacualoyan",
+        "common_meaning": "Literally 'banquet hall'\nOne of the cities in Neten Nonotzlalitzli, and its political center",
+        "pronunciation": "tla-tla-QUAH-lo-yann"
+    },
+    {
+        "id": 5,
+        "chacalli_word": "Chalchiuhicalli",
+        "common_meaning": "Literally 'jade stone'\nOne of the cities in Neten Nonotzlalitzli, a mining town rich in resources",
+        "pronunciation": "chal-chiu-hee-CAHL-lee"
+    },
+    {
+        "id": 6,
+        "chacalli_word": "cocomoca",
+        "common_meaning": "From 'comoco', meaning 'bleat'\nA domesticated beast in Chacalli, adept at navigating along difficult terrain",
+        "pronunciation": "co-co-MOH-ca"
+    },
+    {
+        "id": 7,
+        "chacalli_word": "Empero Tletzintli",
+        "common_meaning": "Literally 'Fire Empire'\nA small tribal empire, and another country within Chacalli",
+        "pronunciation": "Em-pair-oh tlet-ZEEN-tlee"
+    },
+    {
+        "id": 8,
+        "chacalli_word": "Monnan Nepiki",
+        "common_meaning": "Literally 'ash mother'\nA volcano central to the mountains of Tepetozcah Tenyocan, which has been rumored to be near eruption",
+        "pronunciation": "MOE-naan neh-PEEK-ee"
+    },
+    {
+        "id": 9,
+        "chacalli_word": "Escudo Neyollo",
+        "common_meaning": "A temple in the mountains of Tepetozcah Tenyocan, where it is rumored that the Chalice of Kruka is kept",
+        "pronunciation": "es-COO-doe nae-YOH-low"
+    },
+    {
+        "id": 10,
+        "chacalli_word": "Xalli",
+        "common_meaning": "sand",
+        "pronunciation": "SHAH-lee"
+    },
+    {
+        "id": 11,
+        "chacalli_word": "Tepetl",
+        "common_meaning": "hill",
+        "pronunciation": "teh-peh-TILL"
+    },
+    {
+        "id": 12,
+        "chacalli_word": "Tepetozo",
+        "common_meaning": "mountainous",
+        "pronunciation": "teh-peh-TOZ-oh"
+    },
+    {
+        "id": 13,
+        "chacalli_word": "Tepetl Xalli",
+        "common_meaning": "Literally 'sand hill'\nA region of the port town of Tochtepec where many of the Neten Nonotzalitzli natives live and work.",
+        "pronunciation": "teh-peh-TILL SHAH-lee"
+    },
+    {
+        "id": 14,
+        "chacalli_word": "Kalaki",
+        "common_meaning": "A type of boat used for fishing in the shallow parts of the ocean near the shore. It has a wide, flat bottom, similar to a raft.",
+        "pronunciation": "cah-lah-KEE"
+    },    
+    {
+        "id": 15,
+        "chacalli_word": "Amo",
+        "common_meaning": "When used alone, a first person possessive ('my'). As a prefix, a negative modifier ('not-').",
+        "pronunciation": "AH-mo"
+    },
+    {
+        "id": 16,
+        "chacalli_word": "Kuali",
+        "common_meaning": "goodness",
+        "pronunciation": "QUALL-ee"
+    },
+    {
+        "id": 17,
+        "chacalli_word": "Kualtik",
+        "common_meaning": "Literally 'most goodness'\nbest",
+        "pronunciation": "QUALL-teek"
+    },
+    {
+        "id": 18,
+        "chacalli_word": "Amokuali",
+        "common_meaning": "Literally 'not goodness'\nbad",
+        "pronunciation": "ah-mo-QUALL-ee"
+    },
+    {
+        "id": 19,
+        "chacalli_word": "Pilcalio",
+        "common_meaning": "'Political' or having to do with politics",
+        "pronunciation": "peel-CAH-lee-oh"
+    },
+    {
+        "id": 20,
+        "chacalli_word": "Yatl",
+        "common_meaning": "A word describing the place for the previous word or adjective. For instance 'Pilcalio Yatl' means 'Politics Place.'",
+        "pronunciation": "YAHT"
+    },
+    {
+        "id": 21,
+        "chacalli_word": "Tlan",
+        "common_meaning": "A word describing the place for the following word or adjective. For instance 'Tlan Yankuk' means 'Place to Cook.'",
+        "pronunciation": "LAHN"
+    },
+    {
+        "id": 22,
+        "chacalli_word": "Yankuk",
+        "common_meaning": "Cooking. Can be used as a descriptive noun or as a verb.",
+        "pronunciation": "YAWN-cook"
+    },
+    {
+        "id": 23,
+        "chacalli_word": "Kichantli",
+        "common_meaning": "Shelter. Has implications that it's the type of shelter put up in an act of desperation",
+        "pronunciation": "key-CHONN-tli"
+    },
+    {
+        "id": 24,
+        "chacalli_word": "Yolkalan",
+        "common_meaning": "Place to keep animals",
+        "pronunciation": "YOLL-cah-lawn"
+    },
+    {
+        "id": 25,
+        "chacalli_word": "Kawayotlan",
+        "common_meaning": "Stables. Used in Neten Nonotzalitzli to store cocomocos.",
+        "pronunciation": "cah-wah-YOH-tlan"
+    },
+    {
+        "id": 26,
+        "chacalli_word": "Yotli",
+        "common_meaning": "Storage, or a place to store things.",
+        "pronunciation": "YOH-tlee"
+    },
+    {
+        "id": 27,
+        "chacalli_word": "Mantli",
+        "common_meaning": "Freshness, as a noun concept. Also refers to the general 'fresh' feeling one might feel seeing greens.",
+        "pronunciation": "MAAN-tlee"
+    },
+    {
+        "id": 28,
+        "chacalli_word": "Tlahto",
+        "common_meaning": "A driving concept of nationalism, coined by politicians in Neten Nonotzalitzli.",
+        "pronunciation": "TLAH-tow"
+    },
+    {
+        "id": 29,
+        "chacalli_word": "Ueuekayomatiliskalli",
+        "common_meaning": "Similar to 'library,' contains slightly more implications of 'pile of books'",
+        "pronunciation": "way-way-KAH-yo-mah-tee-lee-skah-lee"
+    },
+    {
+        "id": 30,
+        "chacalli_word": "Yaoyo",
+        "common_meaning": "Strength, especially the ability to exert force and protect oneself. Commonly associated with military.",
+        "pronunciation": "YAH-yoh"
+    },
+    {
+        "id": 31,
+        "chacalli_word": "Akoki",
+        "common_meaning": "Similar to 'progress,' with an implication of 'rules making.' Often associated with political speeches.",
+        "pronunciation": "ah-COH-kee"
+    },
+    {
+        "id": 32,
+        "chacalli_word": "Malinalli",
+        "common_meaning": "Grass. versions of this word are also used to describe fields, plains, or even mere flat areas.",
+        "pronunciation": "mah-lee-NAH-lee"
+    },
+    {
+        "id": 33,
+        "chacalli_word": "Tsinto",
+        "common_meaning": "Similar to 'low,' but also meaning for 'short' when speaking about objects.",
+        "pronunciation": "TSEEN-tow"
+    },
+    {
+        "id": 34,
+        "chacalli_word": "Tomintla",
+        "common_meaning": "Storage, but unilke 'Yotli,' with an implication of it being viewable and long-term, like a museum.",
+        "pronunciation": "tow-MEEN-tlah"
+    },
+    {
+        "id": 35,
+        "chacalli_word": "Apan",
+        "common_meaning": "The name of the currency used around here. Gold coins are accepted everywhere, though.",
+        "pronunciation": "ah-PAHN"
+    },
+    {
+        "id": 36,
+        "chacalli_word": "Ueyi",
+        "common_meaning": "Large sized. Like 'tsinto,' not used to refer to creatures, as opposed to objects.",
+        "pronunciation": "WAY-ee"
+    },
+    {
+        "id": 37,
+        "chacalli_word": "Tiankistli",
+        "common_meaning": "A marketplace. Also refers to machines with many inputs and outputs.",
+        "pronunciation": "tee-ahn-KEE-stlee"
+    },
+    {
+        "id": 38,
+        "chacalli_word": "Xoxoki",
+        "common_meaning": "Green. Has some cultural implications of traitorship which have faded generation by generation into more of intrigue or flirtation.",
+        "pronunciation": "show-SHOW-kee"
+    },
+    {
+        "id": 39,
+        "chacalli_word": "Kuauo",
+        "common_meaning": "Tree",
+        "pronunciation": "QUAH-woh"
+    },
+    {
+        "id": 40,
+        "chacalli_word": "Tlaloli",
+        "common_meaning": "Traveler (affectionate), and as the world expands, also means 'businessperson.' Built off of 'Tlalo,' meaning 'store.'",
+        "pronunciation": "tlah-LOW-lee"
+    },
+    {
+        "id": 41,
+        "chacalli_word": "Kisto",
+        "common_meaning": "A very casual term meaning 'trade,' but without much seriousness. Like calling a company a 'biz.'",
+        "pronunciation": "KEE-stow"
+    },
+    {
+        "id": 42,
+        "chacalli_word": "Tenolan",
+        "common_meaning": "Used broadly to refer to death or its related processes, like funerals, elder care, and the concept of rest.",
+        "pronunciation": "TEN-oh-lawn"
+    },
+    {
+        "id": 43,
+        "chacalli_word": "Tlalo",
+        "common_meaning": "Store. In olden days, was more of a reference to the part of a house from which someone might sell their livelihoods.",
+        "pronunciation": "TLAH-low"
+    },
+    {
+        "id": 44,
+        "chacalli_word": "Tlaqualli",
+        "common_meaning": "Food products, like what a farm or orchard might produce. Helped contribue to the alternate meaning of 'tlalo.'",
+        "pronunciation": "tlah-QUAH-lee"
+    },
+    {
+        "id": 45,
+        "chacalli_word": "Xitlatekitli",
+        "common_meaning": "Referring to laborers or workers. Tends to come with the implication of simplicity and hard-working determination.",
+        "pronunciation": "shee-tlah-teh-KEE-tli"
+    },
+    {
+        "id": 46,
+        "chacalli_word": "Xiteyaochiua",
+        "common_meaning": "Theater, or place to view spectacles",
+        "pronunciation": "shee-teh-YOW-chew-ah"
+    },
+    {
+        "id": 47,
+        "chacalli_word": "Tlautil",
+        "common_meaning": "Wheat",
+        "pronunciation": "TLOW-till"
+    },
+    {
+        "id": 48,
+        "chacalli_word": "Tlachiukalli",
+        "common_meaning": "A workshop. The first of these orignated as wheat grain mills, but now it refers more to a broader segment of contraption shops.",
+        "pronunciation": "TLAH-chew-kahl-ee"
+    },
+    {
+        "id": 49,
+        "chacalli_word": "Seikankalli",
+        "common_meaning": "Comes from an old folk story about a miner who slept in the mines and turned it into his home. Meaning 'the place that's near home.'",
+        "pronunciation": "say-CON-kahl-ee"
+    },
+    {
+        "id": 50,
+        "chacalli_word": "Inali",
+        "common_meaning": "Spiritual significance. If something possesses enough Inali, it's more holy or sacred.",
+        "pronunciation": "ee-NAH-lee"
+    },
+    {
+        "id": 51,
+        "chacalli_word": "Tolte",
+        "common_meaning": "Statue",
+        "pronunciation": "TOLL-tay"
+    },
+    {
+        "id": 52,
+        "chacalli_word": "Ameyaltepan",
+        "common_meaning": "Woodworking. Parts of this word are used to refer to similar concepts, like lumber, carving, and parts of the tree.",
+        "pronunciation": "ah-may-YAHL-teh-ponn"
+    },
+    {
+        "id": 53,
+        "chacalli_word": "Mansan",
+        "common_meaning": "Fruit that grows on trees and doesn't need to be replanted.",
+        "pronunciation": "MAHN-sahn"
+    },
+    {
+        "id": 54,
+        "chacalli_word": "Tetlo",
+        "common_meaning": "Stoneworking. More specific concepts within this craft tend to get their own words.",
+        "pronunciation": "TET-low"
+    },
+    {
+        "id": 55,
+        "chacalli_word": "Siuantlatki",
+        "common_meaning": "Similar to 'separate,' but with a specific implication of safety as opposed to loneliness.",
+        "pronunciation": "see-wahn-TLAH-tkee"
+    },
+    {
+        "id": 56,
+        "chacalli_word": "Yemanko",
+        "common_meaning": "Warmth. Usually not associated as much with fire as the natural warmth within caves closer to the earth.",
+        "pronunciation": "yeh-MAHN-koh"
+    },
+    {
+        "id": 57,
+        "chacalli_word": "Amiak",
+        "common_meaning": "The security of a campfire.",
+        "pronunciation": "AH-mee-yak"
+    },
+    {
+        "id": 58,
+        "chacalli_word": "Uili",
+        "common_meaning": "Gathering, or a gathering place.",
+        "pronunciation": "oo-WEE-lee"
+    },
+    {
+        "id": 59,
+        "chacalli_word": "Culanar",
+        "common_meaning": "One of the tribes in the jungle. Tends to be hostile, and focused on food.",
+        "pronunciation": "COLL-uh-nahr"
+    },
+    {
+        "id": 60,
+        "chacalli_word": "Silboxin",
+        "common_meaning": "One of the tribes in the jungle. Tends to be hostile, and focused on material.",
+        "pronunciation": "sill-BOX-sin"
+    },
+    {
+        "id": 61,
+        "chacalli_word": "Vurid",
+        "common_meaning": "One of the tribes in the jungle. Tends to be hostile, and focused on wealth.",
+        "pronunciation": "VIEW-rid"
+    },
+    {
+        "id": 62,
+        "chacalli_word": "Lantaro",
+        "common_meaning": "One of the tribes in the jungle. Tends to be peaceful, and focused on food.",
+        "pronunciation": "lan-TAHR-roh"
+    },
+    {
+        "id": 63,
+        "chacalli_word": "Thimm",
+        "common_meaning": "One of the tribes in the jungle. Tends to be peaceful, and focused on material.",
+        "pronunciation": "THIM"
+    },
+    {
+        "id": 64,
+        "chacalli_word": "Dafare",
+        "common_meaning": "One of the tribes in the jungle. Tends to be peaceful, and focused on wealth.",
+        "pronunciation": "duh-FAR-ay"
+    },
+    {
+        "id": 65,
+        "chacalli_word": "Nimiti",
+        "common_meaning": "Please",
+        "pronunciation": "nih-MEE-tee"
+    },
+    {
+        "id": 66,
+        "chacalli_word": "Sokama",
+        "common_meaning": "Thank you",
+        "pronunciation": "soh-CAH-mah"
+    },
+    {
+        "id": 67,
+        "chacalli_word": "Kampa",
+        "common_meaning": "Where, or used for the concept of location. Asking 'Where is X?' is 'Kampa X?'",
+        "pronunciation": "CAHM-pah"
+    },
+    {
+        "id": 68,
+        "chacalli_word": "Kenih",
+        "common_meaning": "When, or used for the concept of timing. Asking 'When is X?' is 'Kenih X?'",
+        "pronunciation": "KEN-nih"
+    },
+    {
+        "id": 69,
+        "chacalli_word": "Lekah",
+        "common_meaning": "Why, or used for the concept of reason. Asking 'Why is X?' is 'Lekah X?'",
+        "pronunciation": "LEE-cah"
+    },
+    {
+        "id": 70,
+        "chacalli_word": "Ken",
+        "common_meaning": "How, or used for the concept of means. Asking 'How does one X?' is 'Ken X?'",
+        "pronunciation": "KEN"
+    },
+    {
+        "id": 71,
+        "chacalli_word": "Poktil",
+        "common_meaning": "Smoke",
+        "pronunciation": "POKE-teel"
+    }
+]
