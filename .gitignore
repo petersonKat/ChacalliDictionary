@@ -25,3 +25,10 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# version-specific folders that might include local paths
+chacalli_dictionary/android/
+chacalli_dictionary/ios/
+chacalli_dictionary/windows/
+chacalli_dictionary/macos/
+chacalli_dictionary/linux/
