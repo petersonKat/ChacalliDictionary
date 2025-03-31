@@ -1,3 +1,4 @@
+import 'package:chacalli_dictionary/utils/ChacalliColors.dart';
 import 'package:flutter/material.dart';
 import 'package:chacalli_dictionary/utils/router.dart';
 
@@ -13,7 +14,7 @@ class ChacalliDictionary extends StatelessWidget {
     return MaterialApp.router(
       title: 'Chacalli Dictionary Demo',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.blueGrey),
+        colorScheme: ColorScheme.fromSeed(seedColor: ChacalliColors.thematic),
         useMaterial3: true,
       ),
       routerConfig: router,

@@ -1,6 +1,5 @@
 import 'package:go_router/go_router.dart';
 import 'package:chacalli_dictionary/screens/HomeScreen.dart';
-import 'package:chacalli_dictionary/screens/SearchScreen.dart';
 import 'package:chacalli_dictionary/screens/EntryScreen.dart';
 
 final GoRouter router = GoRouter(routes: <RouteBase>[
@@ -10,13 +9,10 @@ final GoRouter router = GoRouter(routes: <RouteBase>[
     builder: (context, state) => const HomeScreen(),
   ),
   GoRoute(
-    path: SearchScreen.path,
-    name: SearchScreen.name,
-    builder: (context, state) => const SearchScreen(),
-  ),
-  GoRoute(
-    path: EntryScreen.path,
-    name: EntryScreen.name,
-    builder: (context, state) => const EntryScreen(),
-  ),
+      path: EntryScreen.path,
+      name: EntryScreen.name,
+      builder: (context, state) {
+        print(state.extra);
+        return EntryScreen(entryId: "${state.extra as int}");
+      }),
 ]);
