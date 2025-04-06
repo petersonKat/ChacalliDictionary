@@ -120,27 +120,39 @@ class _HomeScreenState extends State<HomeScreen> {
         centerTitle: true,
       ),
       backgroundColor: ChacalliColors.background,
-      body: Container(
-        padding: const EdgeInsets.fromLTRB(16, 16, 16, 0),
-        child: ListView(
-          children: loading
-              ? [CircularProgressIndicator()]
-              : <Widget>[
-                    Container(
-                      padding: const EdgeInsets.symmetric(vertical: 16),
-                      child: TextField(
-                        controller: searchTextController,
-                        onChanged: (value) => updateResults(value),
-                        style: GoogleFonts.notoKufiArabic(
-                            color: ChacalliColors.text, fontSize: 12),
+      body: GestureDetector(
+        onTap: () => FocusManager.instance.primaryFocus?.unfocus(),
+        child: Container(
+          padding: const EdgeInsets.fromLTRB(16, 16, 16, 0),
+          child: ListView(
+            children: loading
+                ? [CircularProgressIndicator()]
+                : <Widget>[
+                      Container(
+                        padding: const EdgeInsets.symmetric(vertical: 16),
+                        child: TextField(
+                          decoration: InputDecoration(
+                              border: OutlineInputBorder(
+                                  borderRadius: BorderRadius.circular(15),
+                                  borderSide: BorderSide(
+                                      color: ChacalliColors.thematic)),
+                              hintText: "Search...",
+                              hintStyle: GoogleFonts.notoKufiArabic(
+                                  color: ChacalliColors.lightText,
+                                  fontSize: 16)),
+                          controller: searchTextController,
+                          onChanged: (value) => updateResults(value),
+                          style: GoogleFonts.notoKufiArabic(
+                              color: ChacalliColors.text, fontSize: 16),
+                        ),
                       ),
-                    ),
-                  ] +
-                  results!
-                      .map<EntryCard>(
-                        (element) => EntryCard(entry: element),
-                      )
-                      .toList(),
+                    ] +
+                    results!
+                        .map<EntryCard>(
+                          (element) => EntryCard(entry: element),
+                        )
+                        .toList(),
+          ),
         ),
       ),
     );

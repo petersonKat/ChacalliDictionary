@@ -6,5 +6,6 @@ class ChacalliColors {
   static const Color thematic = Color(0xff0b4f6c);
   static const Color secondary = Color(0xff04724d);
   static const Color text = Color(0xff331f03);
+  static const Color lightText = Color(0xff887558);
   static const Color altText = Color(0xffffffff);
 }
